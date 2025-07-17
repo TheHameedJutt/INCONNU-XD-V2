@@ -2,7 +2,7 @@
 {
   
   "name": "INCONNNU-XD-V2",
-  "description": "Best Whatsapp bot made by inconnu boy tech",
+  "description": "Best Whatsapp bot made by Hameedjutt techGuru",
   "logo":"https://files.catbox.moe/959dyk.jpg",
   "keywords": [
     "whatsapp bot"
@@ -11,7 +11,7 @@
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {
-      "description": "Paste here session id that you have scanned",
+      "description": "INCONNU~XD~6ooQWaZZ#3Qk90acowLis8IvQjX6ZjLQ6UdAtfBWaTJDFqrB2pAY",
       "required": true,
       "value": ""
     },
